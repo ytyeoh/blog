@@ -6,4 +6,4 @@ excerpt: "Recent Workshops"
 
 # Workshops I've Put Together
 
-- Blah blah workshop.
+- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
