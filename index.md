@@ -3,11 +3,10 @@ layout: page
 excerpt: "About Me..."
 ---
 
-This is a sample academic website using Jekyll. It's designed to be flexible and ready for academics, and be hosted on GitHub.
+I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
 
 ## Current Interests and Projects:
 
 - Website Design
-- GitHub Pages
+- [GitHub Pages](http://laderast.github.io)
 - Academia
-
